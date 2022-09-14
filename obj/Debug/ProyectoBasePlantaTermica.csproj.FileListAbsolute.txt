@@ -1,0 +1,40 @@
+C:\Users\Saint\source\repos\ProyectoBasePlantaTermica\ProyectoBasePlantaTermica\bin\Debug\ProyectoBasePlantaTermica.exe.config
+C:\Users\Saint\source\repos\ProyectoBasePlantaTermica\ProyectoBasePlantaTermica\bin\Debug\ProyectoBasePlantaTermica.exe
+C:\Users\Saint\source\repos\ProyectoBasePlantaTermica\ProyectoBasePlantaTermica\bin\Debug\ProyectoBasePlantaTermica.pdb
+C:\Users\Saint\source\repos\ProyectoBasePlantaTermica\ProyectoBasePlantaTermica\obj\Debug\ProyectoBasePlantaTermica.csprojAssemblyReference.cache
+C:\Users\Saint\source\repos\ProyectoBasePlantaTermica\ProyectoBasePlantaTermica\obj\Debug\ProyectoBasePlantaTermica.Form1.resources
+C:\Users\Saint\source\repos\ProyectoBasePlantaTermica\ProyectoBasePlantaTermica\obj\Debug\ProyectoBasePlantaTermica.Properties.Resources.resources
+C:\Users\Saint\source\repos\ProyectoBasePlantaTermica\ProyectoBasePlantaTermica\obj\Debug\ProyectoBasePlantaTermica.csproj.GenerateResource.cache
+C:\Users\Saint\source\repos\ProyectoBasePlantaTermica\ProyectoBasePlantaTermica\obj\Debug\ProyectoBasePlantaTermica.csproj.CoreCompileInputs.cache
+C:\Users\Saint\source\repos\ProyectoBasePlantaTermica\ProyectoBasePlantaTermica\obj\Debug\ProyectoBasePlantaTermica.exe
+C:\Users\Saint\source\repos\ProyectoBasePlantaTermica\ProyectoBasePlantaTermica\obj\Debug\ProyectoBasePlantaTermica.pdb
+C:\Users\Saint\Desktop\ProyectoBasePlantaTermica\ProyectoBasePlantaTermica\bin\Debug\ProyectoBasePlantaTermica.exe.config
+C:\Users\Saint\Desktop\ProyectoBasePlantaTermica\ProyectoBasePlantaTermica\bin\Debug\ProyectoBasePlantaTermica.exe
+C:\Users\Saint\Desktop\ProyectoBasePlantaTermica\ProyectoBasePlantaTermica\bin\Debug\ProyectoBasePlantaTermica.pdb
+C:\Users\Saint\Desktop\ProyectoBasePlantaTermica\ProyectoBasePlantaTermica\obj\Debug\ProyectoBasePlantaTermica.csprojAssemblyReference.cache
+C:\Users\Saint\Desktop\ProyectoBasePlantaTermica\ProyectoBasePlantaTermica\obj\Debug\ProyectoBasePlantaTermica.Form1.resources
+C:\Users\Saint\Desktop\ProyectoBasePlantaTermica\ProyectoBasePlantaTermica\obj\Debug\ProyectoBasePlantaTermica.Properties.Resources.resources
+C:\Users\Saint\Desktop\ProyectoBasePlantaTermica\ProyectoBasePlantaTermica\obj\Debug\ProyectoBasePlantaTermica.csproj.GenerateResource.cache
+C:\Users\Saint\Desktop\ProyectoBasePlantaTermica\ProyectoBasePlantaTermica\obj\Debug\ProyectoBasePlantaTermica.csproj.CoreCompileInputs.cache
+C:\Users\Saint\Desktop\ProyectoBasePlantaTermica\ProyectoBasePlantaTermica\obj\Debug\ProyectoBasePlantaTermica.exe
+C:\Users\Saint\Desktop\ProyectoBasePlantaTermica\ProyectoBasePlantaTermica\obj\Debug\ProyectoBasePlantaTermica.pdb
+C:\Users\Saint\Documents\Sextro Semestre\Sistemas de Control\Evaluacion 1\ProyectoBasePlantaTermica\ProyectoBasePlantaTermica\bin\Debug\ProyectoBasePlantaTermica.exe.config
+C:\Users\Saint\Documents\Sextro Semestre\Sistemas de Control\Evaluacion 1\ProyectoBasePlantaTermica\ProyectoBasePlantaTermica\bin\Debug\ProyectoBasePlantaTermica.exe
+C:\Users\Saint\Documents\Sextro Semestre\Sistemas de Control\Evaluacion 1\ProyectoBasePlantaTermica\ProyectoBasePlantaTermica\bin\Debug\ProyectoBasePlantaTermica.pdb
+C:\Users\Saint\Documents\Sextro Semestre\Sistemas de Control\Evaluacion 1\ProyectoBasePlantaTermica\ProyectoBasePlantaTermica\obj\Debug\ProyectoBasePlantaTermica.csprojAssemblyReference.cache
+C:\Users\Saint\Documents\Sextro Semestre\Sistemas de Control\Evaluacion 1\ProyectoBasePlantaTermica\ProyectoBasePlantaTermica\obj\Debug\ProyectoBasePlantaTermica.Form1.resources
+C:\Users\Saint\Documents\Sextro Semestre\Sistemas de Control\Evaluacion 1\ProyectoBasePlantaTermica\ProyectoBasePlantaTermica\obj\Debug\ProyectoBasePlantaTermica.Properties.Resources.resources
+C:\Users\Saint\Documents\Sextro Semestre\Sistemas de Control\Evaluacion 1\ProyectoBasePlantaTermica\ProyectoBasePlantaTermica\obj\Debug\ProyectoBasePlantaTermica.csproj.GenerateResource.cache
+C:\Users\Saint\Documents\Sextro Semestre\Sistemas de Control\Evaluacion 1\ProyectoBasePlantaTermica\ProyectoBasePlantaTermica\obj\Debug\ProyectoBasePlantaTermica.csproj.CoreCompileInputs.cache
+C:\Users\Saint\Documents\Sextro Semestre\Sistemas de Control\Evaluacion 1\ProyectoBasePlantaTermica\ProyectoBasePlantaTermica\obj\Debug\ProyectoBasePlantaTermica.exe
+C:\Users\Saint\Documents\Sextro Semestre\Sistemas de Control\Evaluacion 1\ProyectoBasePlantaTermica\ProyectoBasePlantaTermica\obj\Debug\ProyectoBasePlantaTermica.pdb
+C:\Users\Saint\Documents\Sextro Semestre\Sistemas de Control\ProyectoBasePlantaTermica\ProyectoBasePlantaTermica\bin\Debug\ProyectoBasePlantaTermica.exe.config
+C:\Users\Saint\Documents\Sextro Semestre\Sistemas de Control\ProyectoBasePlantaTermica\ProyectoBasePlantaTermica\bin\Debug\ProyectoBasePlantaTermica.exe
+C:\Users\Saint\Documents\Sextro Semestre\Sistemas de Control\ProyectoBasePlantaTermica\ProyectoBasePlantaTermica\bin\Debug\ProyectoBasePlantaTermica.pdb
+C:\Users\Saint\Documents\Sextro Semestre\Sistemas de Control\ProyectoBasePlantaTermica\ProyectoBasePlantaTermica\obj\Debug\ProyectoBasePlantaTermica.csprojAssemblyReference.cache
+C:\Users\Saint\Documents\Sextro Semestre\Sistemas de Control\ProyectoBasePlantaTermica\ProyectoBasePlantaTermica\obj\Debug\ProyectoBasePlantaTermica.form1.resources
+C:\Users\Saint\Documents\Sextro Semestre\Sistemas de Control\ProyectoBasePlantaTermica\ProyectoBasePlantaTermica\obj\Debug\ProyectoBasePlantaTermica.Properties.Resources.resources
+C:\Users\Saint\Documents\Sextro Semestre\Sistemas de Control\ProyectoBasePlantaTermica\ProyectoBasePlantaTermica\obj\Debug\ProyectoBasePlantaTermica.csproj.GenerateResource.cache
+C:\Users\Saint\Documents\Sextro Semestre\Sistemas de Control\ProyectoBasePlantaTermica\ProyectoBasePlantaTermica\obj\Debug\ProyectoBasePlantaTermica.csproj.CoreCompileInputs.cache
+C:\Users\Saint\Documents\Sextro Semestre\Sistemas de Control\ProyectoBasePlantaTermica\ProyectoBasePlantaTermica\obj\Debug\ProyectoBasePlantaTermica.exe
+C:\Users\Saint\Documents\Sextro Semestre\Sistemas de Control\ProyectoBasePlantaTermica\ProyectoBasePlantaTermica\obj\Debug\ProyectoBasePlantaTermica.pdb
